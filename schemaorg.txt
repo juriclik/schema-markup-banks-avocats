@@ -1,0 +1,75 @@
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "LegalService",
+      "name": "Banks Avocats",
+      "description": "Solutions juridiques pour les particuliers et les entreprises au Québec",
+      "url": "https://banksavocats.com",
+      "telephone": "+15144475239",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "5255 Henri Bourassa Blvd W bureau 425",
+        "addressLocality": "Saint-Laurent",
+        "addressRegion": "QC",
+        "postalCode": "H4R 1K7",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "45.5175",
+        "longitude": "-73.6936"
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "17:00"
+        }
+      ],
+      "sameAs": [
+        "https://www.facebook.com/profile.php?id=61555396380056",
+        "https://www.instagram.com/banksavocats/",
+        "https://www.linkedin.com/company/banks-avocats/"
+      ],
+      "priceRange": "$$",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Services Juridiques",
+        "itemListElement": [
+          {
+            "@type": "OfferCatalog",
+            "name": "Droit des affaires",
+            "itemListElement": [
+              {
+                "@type": "Offer",
+                "name": "Incorporation d'entreprise"
+              },
+              {
+                "@type": "Offer",
+                "name": "Rédaction de contrats"
+              }
+            ]
+          },
+          {
+            "@type": "OfferCatalog",
+            "name": "Droit familial"
+          },
+          {
+            "@type": "OfferCatalog",
+            "name": "Litige civil et commercial"
+          },
+          {
+            "@type": "OfferCatalog",
+            "name": "Droit de l'immigration"
+          }
+        ]
+      }
+    }
+    </script>
