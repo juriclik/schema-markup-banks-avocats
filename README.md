@@ -2,6 +2,8 @@
 
 Ce référentiel contient les données de balisage de schéma pour https://banksavocats.com. Pour utiliser ces données, copiez-collez simplement le contenu du fichier « schema-markup.txt » sur la page contact de votre site web.
 
+Vous pouvez tester les r/sultats avec l'outilde Google https://search.google.com/test/rich-results
+
 Banks Avocats
 Solutions juridiques pour les particuliers et les entreprises au Québec
 
